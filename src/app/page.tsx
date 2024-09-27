@@ -15,10 +15,10 @@ const links = [
     header: "work",
     items: [
       {
-        title: "jira",
-        url: "https://cocoflo.atlassian.net/jira/software/c/projects/DEV/boards/8",
+        title: "clickup",
+        url: "https://app.clickup.com/9014374112/v/b/7-9014374112-2",
       },
-      { title: "confluence", url: "https://cocoflo.atlassian.net/wiki" },
+      { title: "docs", url: "https://cocoflo.atlassian.net/wiki" },
       {
         title: "review",
         url: "https://gitlab.com/groups/cocoflo-dev/-/merge_requests",
