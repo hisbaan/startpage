@@ -16,9 +16,9 @@ const links = [
     items: [
       {
         title: "clickup",
-        url: "https://app.clickup.com/9014374112/v/b/7-9014374112-2",
+        url: "https://app.clickup.com/9014374112/v/b/8cmrvq0-1494",
       },
-      { title: "docs", url: "https://cocoflo.atlassian.net/wiki" },
+      { title: "docs", url: "https://app.clickup.com/9014374112/docs" },
       {
         title: "review",
         url: "https://gitlab.com/groups/cocoflo-dev/-/merge_requests",
