@@ -20,7 +20,7 @@ const links = [
       { title: "docs", url: "https://app.clickup.com/9014374112/docs" },
       {
         title: "figma",
-        url: "https://www.figma.com/design/WMXzoJU8DZox68bW8QBQqp/REC--Wireframes",
+        url: "https://www.figma.com/design/BTDXaz714Qs4VXRm4lPsAa/REC---Cocoflo-?m=dev",
       },
       {
         title: "p&r",
