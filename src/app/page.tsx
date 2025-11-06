@@ -15,7 +15,7 @@ const links = [
     items: [
       {
         title: "clickup",
-        url: "https://app.clickup.com/9014374112/v/b/8cmrvq0-1494",
+        url: "https://app.clickup.com/9014374112/v/l/6-901405611743-1",
       },
       { title: "docs", url: "https://app.clickup.com/9014374112/docs" },
       {
