@@ -15,7 +15,7 @@ const links = [
     items: [
       {
         title: "clickup",
-        url: "https://app.clickup.com/9014374112/v/l/6-901405611743-1",
+        url: "https://app.clickup.com/9014374112/v/b/5-90144457676-2",
       },
       { title: "docs", url: "https://app.clickup.com/9014374112/docs" },
       {
@@ -26,14 +26,6 @@ const links = [
         title: "p&r",
         url: "https://gitlab.com/cocoflo-dev/parks-and-rec/-/merge_requests",
       },
-      // {
-      //   title: "cocoflo-api",
-      //   url: "https://gitlab.com/cocoflo-dev/cocoflo-api/-/merge_requests",
-      // },
-      // {
-      //   title: "webclient",
-      //   url: "https://gitlab.com/cocoflo-dev/webclient/-/merge_requests",
-      // },
     ],
   },
 ];
