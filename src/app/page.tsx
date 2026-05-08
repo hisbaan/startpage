@@ -5,7 +5,8 @@ const links = [
     header: "frequent",
     items: [
       { title: "github", url: "https://github.com" },
-      { title: "gitlab", url: "https://gitlab.com" },
+      { title: "graphite", url: "https://graphite.com" },
+      { title: "linear", url: "https://linear.app/affiniti" },
       { title: "gmail", url: "https://mail.google.com" },
       { title: "meet", url: "https://meet.google.com" },
     ],
@@ -14,17 +15,24 @@ const links = [
     header: "work",
     items: [
       {
-        title: "clickup",
-        url: "https://app.clickup.com/9014374112/v/b/5-90144457676-2",
-      },
-      { title: "docs", url: "https://app.clickup.com/9014374112/docs" },
-      {
-        title: "figma",
-        url: "https://www.figma.com/design/BTDXaz714Qs4VXRm4lPsAa/REC---Cocoflo-?m=dev",
+        title: "monorepo",
+        url: "https://github.com/affiniti-finance/monorepo",
       },
       {
-        title: "p&r",
-        url: "https://gitlab.com/cocoflo-dev/parks-and-rec/-/merge_requests",
+        title: "legacy",
+        url: "https://github.com/affiniti-finance/affiniti",
+      },
+      {
+        title: "staging",
+        url: "https://staging.affiniti.finance/dashboard",
+      },
+      {
+        title: "prod",
+        url: "https://update.affiniti.com/dashboard",
+      },
+      {
+        title: "internal",
+        url: "https://internal.affiniti.finance",
       },
     ],
   },
